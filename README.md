@@ -52,7 +52,8 @@
 [![Tech Skills](https://skillicons.dev/icons?i=vim,vscode,bash,linux,ubuntu,git,github)](https://skillicons.dev) <br>
 [![Creative Skills](https://skillicons.dev/icons?i=unity,unreal,blender,ps,pr,ae,ai)](https://skillicons.dev)
 
-![krub-dev's Stats](https://github-readme-stats.vercel.app/api?username=krub-dev&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![krub-dev's Stats](https://github-readme-stats.vercel.app/api?username=krub-dev&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://iili.io/2CpONKQ.png">
  <source media="(prefers-color-scheme: https://iili.io/2CpONKQ.pnglight)" srcset="https://iili.io/2CpONKQ.png">
