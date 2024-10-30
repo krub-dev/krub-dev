@@ -1,8 +1,9 @@
 <h1 align="center">
-  <img src="https://iili.io/2C6GBSe.png" alt="heart krub" width="64" height="64" style="align: bottom;"> Kiko here!
+  <img src="https://iili.io/2CpYvQn.png" alt="heart krub" width="1200" height="auto" style="align: bottom;"> 
 </h1>
 
-<h3 align="center">/*I'm a professional with experience in 3D design, videogames and VFX. Currently developing my programming skills at 42 Barcelona. Committed to keep learning and solving more complex problems. At the moment I'm mainly focused on C*/</h3>
+
+<h3 align="left">/*I'm a professional with experience in 3D design, videogames and VFX. Currently developing my programming skills at 42 Barcelona. Committed to keep learning and solving more complex problems. At the moment I'm mainly focused on C*/</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -16,7 +17,7 @@
 
 - 👨‍💻 Projects available at [github.com/krub-dev](https://github.com/krub-dev)
 
-- 📝 Articles on (WIP) [krubcodex.wordpress.com](https://krubcodex.wordpress.com)
+- 📝 Articles (WIP): [krubcodex.wordpress.com](https://krubcodex.wordpress.com)
 
 - 💬 Ask me about **3D in Videogames & VFX. Game Development. Render. 3D Prints. 3D Software/Workflow.**
 
@@ -30,14 +31,14 @@
 <p align="left">
 </p>
 
-
+![](https://komarev.com/ghpvc/?username=krub-dev&color=yellow&base=200&style=for-the-badge)
 <details> <summary><strong>42 Progress [<a href="https://profile.intra.42.fr/users/frubio-i">Frubio-i</a>]</strong></summary>
 
 | Rank | Project |
 |-----:|-----------|
 |   125/125| LIBFT |
 |   100/125| PRINTF |
-|   100/100| B2BRoot |
+|   100/100| BORN2BEROOT |
 |   125/125| GET_NEXT_LINE |
 |       WIP| PUSH_SWAP |
 |       N/A| SO_LONG |
@@ -53,8 +54,8 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://iili.io/2CUvolV.png">
- <source media="(prefers-color-scheme: light)" srcset="https://iili.io/2CUvolV.png">
- <img alt="YOUR-ALT-TEXT" src="https://iili.io/2CUvolV.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://iili.io/2CpMiXV.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://iili.io/2CpMiXV.png">
+ <img alt="YOUR-ALT-TEXT" src="https://iili.io/2CpMiXV.png">
 </picture>
 
