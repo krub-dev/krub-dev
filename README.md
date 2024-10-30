@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Working on [Push_Swap](www.42barcelona.com)
+- 🔭 Currently working on [Push_Swap](www.42barcelona.com)
 
 - 🌱 Learning **C, Python, VIM, VSCode, Git, CS, Clean Code**
 
