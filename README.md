@@ -54,8 +54,8 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://iili.io/2CpMiXV.png">
- <source media="(prefers-color-scheme: light)" srcset="https://iili.io/2CpMiXV.png">
- <img alt="YOUR-ALT-TEXT" src="https://iili.io/2CpMiXV.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://iili.io/2CpONKQ.png">
+ <source media="(prefers-color-scheme: https://iili.io/2CpONKQ.pnglight)" srcset="https://iili.io/2CpONKQ.png">
+ <img alt="krub banner down github" src="">
 </picture>
 
