@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Currently working on [Push_Swap](www.42barcelona.com)
+- 🔭 Currently working on [Push_Swap](https://www.42barcelona.com)
 
 - 🌱 Learning **C, Python, VIM, VSCode, Git, CS, Clean Code**
 
@@ -14,9 +14,9 @@
 
 - 🤝 Looking for **Networking**
 
-- 👨‍💻 Projects available at [github.com/krub-dev](github.com/krub-dev)
+- 👨‍💻 Projects available at [github.com/krub-dev](https://github.com/krub-dev)
 
-- 📝 Articles on (WIP) [krubcodex.wordpress.com](krubcodex.wordpress.com)
+- 📝 Articles on (WIP) [krubcodex.wordpress.com](https://krubcodex.wordpress.com)
 
 - 💬 Ask me about **3D in Videogames & VFX. Game Development. Render. 3D Prints. 3D Software/Workflow.**
 
