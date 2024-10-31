@@ -56,7 +56,7 @@
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://iili.io/2nAdfku.png">
- <source media="(prefers-color-scheme: https://iili.io/2CpONKQ.pnglight)" srcset="https://iili.io/2nAdfku.png">
- <img alt="krub banner down github" src="">
+ <source media="(prefers-color-scheme: light)" srcset="https://iili.io/2nAdfku.png">
+ <img alt="krub banner down github" src="https://iili.io/2nAdfku.png">
 </picture>
 
