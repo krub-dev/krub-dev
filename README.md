@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://iili.io/2CpYvQn.png" alt="heart krub" width="1200" height="auto" style="align: bottom;"> 
+  <img src="https://iili.io/2nA3pIa.png" alt="heart krub" width="1200" height="auto" style="align: bottom;"> 
 </h1>
 
 
@@ -55,8 +55,8 @@
 ![krub-dev's Stats](https://github-readme-stats.vercel.app/api?username=krub-dev&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://iili.io/2CpONKQ.png">
- <source media="(prefers-color-scheme: https://iili.io/2CpONKQ.pnglight)" srcset="https://iili.io/2CpONKQ.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://iili.io/2nAdfku.png">
+ <source media="(prefers-color-scheme: https://iili.io/2CpONKQ.pnglight)" srcset="https://iili.io/2nAdfku.png">
  <img alt="krub banner down github" src="">
 </picture>
 
