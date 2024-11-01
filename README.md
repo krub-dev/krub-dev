@@ -43,7 +43,7 @@
 |       WIP| PUSH_SWAP |
 |       N/A| SO_LONG |
 |       N/A| PIPEX |
-<img align="center" alt="Krub Badge 3D" width="200" src="https://s1.gifyu.com/images/SOX69.md.gif">
+<img align="center" alt="Krub Badge 3D" width="200" src="https://s1.gifyu.com/images/SOX69.gif">
 </details>
 
 <h3 align="left">Languages and Tools:</h3>
