@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://iili.io/2nA3pIa.png" alt="heart krub" width="1200" height="auto" style="align: bottom;"> 
+  <img src="https://iili.io/2wOy2Nj.png" alt="heart krub" width="1200" height="auto" style="align: bottom;"> 
 </h1>
 
 
@@ -24,6 +24,7 @@
 - 📫 How to reach me **krubioillan@gmail.com**
 
 - ⚡ Fun fact: **Testing with "Acho" & "24"** 🍋
+
 
 <h3 align="left">Connect with me:</h3>
 
