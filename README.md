@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Currently working on [EXAM RANK 02](https://www.42barcelona.com)
+- 🔭 Currently working on [SO_LONG](https://www.42barcelona.com)
 
 - 🌱 Learning **C, Python, VIM, VSCode, Git, CS, Clean Code**
 
@@ -37,12 +37,14 @@
 | Rank | Project |
 |-----:|-----------|
 |   125/125| LIBFT |
-|   100/125| PRINTF |
+|   100/100| PRINTF |
 |   100/100| BORN2BEROOT |
-|   125/125| GET_NEXT_LINE |
-|       WIP| PUSH_SWAP |
+|   125/100| GET_NEXT_LINE |
+|    84/100| PUSH_SWAP |
+|   100/100| EXAM RANK 02 |
+|   125/100| MINITALK |
 |       N/A| SO_LONG |
-|       N/A| PIPEX |
+
 </details>
 
 ![Badge Krub 3D](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHAwcDhvcmJ0empuYjdyNWJsaWwwa3F2ejJrY3VxMnJnc2J4eTJreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UG9D48EnnHHMYYHZvJ/giphy.gif)
