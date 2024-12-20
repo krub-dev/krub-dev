@@ -46,6 +46,8 @@
 |   125/100| MINITALK |
 |       N/A| SO_LONG |
 
+[![frubio-i's 42 stats](https://badge.mediaplus.ma/kettlebells/frubio-i?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 </details>
 
 ![Badge Krub 3D](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHAwcDhvcmJ0empuYjdyNWJsaWwwa3F2ejJrY3VxMnJnc2J4eTJreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UG9D48EnnHHMYYHZvJ/giphy.gif)
