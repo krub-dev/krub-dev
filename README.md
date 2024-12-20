@@ -46,7 +46,7 @@
 |   125/100| MINITALK |
 |       N/A| SO_LONG |
 
-[![frubio-i's 42 stats](https://badge.mediaplus.ma/kettlebells/frubio-i?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![frubio-i's 42 stats](https://badge.mediaplus.ma/kettlebells/frubio-i?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/frubio-i)
 
 </details>
 
