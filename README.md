@@ -55,7 +55,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Languages](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev) <br>
-[![Tech Skills](https://skillicons.dev/icons?i=vim,vscode,bash,linux,ubuntu,git,github)](https://skillicons.dev) <br>
+[![Tech Skills](https://skillicons.dev/icons?i=vim,vscode,bash,linux,ubuntu,git,github,md)](https://skillicons.dev) <br>
 [![Creative Skills](https://skillicons.dev/icons?i=unity,unreal,blender,ps,pr,ae,ai)](https://skillicons.dev)
 
 ![krub-dev's Stats](https://github-readme-stats.vercel.app/api?username=krub-dev&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
