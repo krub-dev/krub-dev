@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://iili.io/2wOy2Nj.png" alt="heart krub" width="1200" height="auto" style="align: bottom;"> 
+  <img src="https://iili.io/2U3Hvp4.png" alt="heart krub" width="1200" height="auto" style="align: bottom;"> 
 </h1>
 
 
@@ -15,7 +15,7 @@
 
 - 🤝 Looking for **Networking**
 
-- 👨‍💻 Projects available at [github.com/krub-dev](https://github.com/krub-dev)
+- 👨‍💻 Projects available at [github.com/krub-dev](https://github.com/krub-dev?tab=repositories)
 
 - 📝 Articles (WIP): [krubcodex.wordpress.com](https://krubcodex.wordpress.com)
 
@@ -37,7 +37,7 @@
 
 | Rank | Project |
 |-----:|-----------|
-|   125/125| LIBFT |
+|   125/100| LIBFT |
 |   100/100| PRINTF |
 |   100/100| BORN2BEROOT |
 |   125/100| GET_NEXT_LINE |
