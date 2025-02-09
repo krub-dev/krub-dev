@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Currently working on [SO_LONG](https://www.42barcelona.com)
+- 🔭 Currently working on [PHILOSOPHERS](https://www.42barcelona.com)
 
 - 🌱 Learning **C, Python, VIM, VSCode, Git, CS, Clean Code**
 
