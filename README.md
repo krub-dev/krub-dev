@@ -35,16 +35,22 @@
 ![](https://komarev.com/ghpvc/?username=krub-dev&color=yellow&base=200&style=for-the-badge)
 <details> <summary><strong>42 Progress [<a href="https://profile.intra.42.fr/users/frubio-i">Frubio-i</a>]</strong></summary>
 
-| Rank | Project |
+| Rank | Milestone 0 |
 |-----:|-----------|
 |   125/100| LIBFT |
+
+| Rank | Milestone 1 |
+|-----:|-----------|
 |   100/100| PRINTF |
 |   100/100| BORN2BEROOT |
 |   125/100| GET_NEXT_LINE |
+
+| Rank | Milestone 2 |
+|-----:|-----------|
 |    84/100| PUSH_SWAP |
 |   100/100| EXAM RANK 02 |
 |   125/100| MINITALK |
-|       N/A| SO_LONG |
+|   110/100| SO_LONG |
 
 [![frubio-i's 42 stats](https://badge.mediaplus.ma/kettlebells/frubio-i?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/frubio-i)
 
