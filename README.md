@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="left">/*I'm a professional with experience in 3D design, videogames and VFX. Currently developing my programming skills at 42 Barcelona. Committed to keep learning and solving more complex problems. At the moment I'm mainly focused on C*/</h3>
+<h3 align="left">/* I'm a professional with experience in 3D design, videogames and VFX. Currently developing my programming skills at 42 Barcelona. Committed to keep learning and solving more complex problems. At the moment I'm mainly focused on C */</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
