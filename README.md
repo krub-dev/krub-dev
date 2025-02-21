@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://iili.io/2U3Hvp4.png" alt="heart krub" width="1200" height="auto" style="align: bottom;"> 
+  <img src="https://iili.io/2U3Hvp4.png" alt="header krub" width="1200" height="auto" style="align: bottom;"> 
 </h1>
 
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Currently working on [PHILOSOPHERS](https://www.42barcelona.com)
+- 🔭 Currently working on [LEARNING QA TESTING](https://www.github.com/krub-dev)
 
-- 🌱 Learning **C, Python, VIM, VSCode, Git, CS, Clean Code**
+- 🌱 Learning **C, Java, QA, VIM, VSCode, Git, CS, Clean Code**
 
 - 👯 Looking to collaborate on **Open Source Projects**
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/krub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krub" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krub" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krub" height="30" width="40" /></a>
 <p align="left">
 </p>
 
@@ -52,17 +52,31 @@
 |   125/100| MINITALK |
 |   110/100| SO_LONG |
 
+<h3>
+  <img src="https://iili.io/39i9Tb9.png" alt="freeze 42 krub" width="75" height="auto" style="align: bottom;">
+</h3>
+
 [![frubio-i's 42 stats](https://badge.mediaplus.ma/kettlebells/frubio-i?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/frubio-i)
 
 </details>
 
 ![Badge Krub 3D](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHAwcDhvcmJ0empuYjdyNWJsaWwwa3F2ejJrY3VxMnJnc2J4eTJreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UG9D48EnnHHMYYHZvJ/giphy.gif)
 
-<h3 align="left">Languages and Tools:</h3>
+#### Lenguages
 
-[![My Languages](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev) <br>
-[![Tech Skills](https://skillicons.dev/icons?i=vim,vscode,bash,linux,ubuntu,git,github,md)](https://skillicons.dev) <br>
-[![Creative Skills](https://skillicons.dev/icons?i=unity,unreal,blender,ps,pr,ae,ai)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=c,java)](https://github.com/krub-dev#lenguages)
+
+#### Tech skills
+
+[![Tech Skills](https://skillicons.dev/icons?i=vim,vscode,idea,bash,linux,ubuntu,git,github,md)](https://github.com/krub-dev#tech-skills)
+
+#### QA Testing
+
+[![QA Skills](https://skillicons.dev/icons?i=selenium,cypress)](https://github.com/krub-dev#qa-testing)
+
+#### Creative
+
+[![Creative Skills](https://skillicons.dev/icons?i=unity,unreal,godot,blender,ps,pr,ae,ai)](https://github.com/krub-dev#creative)
 
 ![krub-dev's Stats](https://github-readme-stats.vercel.app/api?username=krub-dev&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 
