@@ -3,13 +3,13 @@
 </h1>
 
 
-<h3 align="left">/* I'm a professional with experience in 3D design, videogames and VFX. Currently developing my programming skills at 42 Barcelona. Committed to keep learning and solving more complex problems. At the moment I'm mainly focused on C */</h3>
+<h3 align="left">/* I'm a professional with experience in 3D design, videogames and VFX. Currently developing my programming skills at 42 Barcelona. Committed to keep learning and solving more complex problems. At the moment I'm mainly focused on C, Web and Game Development */</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Currently working on [LEARNING QA TESTING](https://www.github.com/krub-dev)
+- 🔭 Currently working on [LEARNING WEB AND GAME DEV](https://www.github.com/krub-dev)
 
-- 🌱 Learning **C, Java, QA, VIM, VSCode, Git, CS, Clean Code**
+- 🌱 Learning **Java, JS, HTML, CSS, BBDD and Game Development in GODOT**
 
 - 👯 Looking to collaborate on **Open Source Projects**
 
@@ -70,9 +70,9 @@
 
 [![Tech Skills](https://skillicons.dev/icons?i=vim,vscode,idea,bash,linux,ubuntu,git,github,md)](https://github.com/krub-dev#tech-skills)
 
-#### QA Testing
+#### Web Dev
 
-[![QA Skills](https://skillicons.dev/icons?i=selenium,cypress)](https://github.com/krub-dev#qa-testing)
+[![Web Dev](https://skillicons.dev/icons?i=html,css,js)](https://github.com/krub-dev#web-dev)
 
 #### Creative
 
