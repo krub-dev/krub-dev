@@ -62,7 +62,7 @@
 
 ![Badge Krub 3D](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHAwcDhvcmJ0empuYjdyNWJsaWwwa3F2ejJrY3VxMnJnc2J4eTJreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UG9D48EnnHHMYYHZvJ/giphy.gif)
 
-#### Lenguages
+#### Languages
 
 [![My Languages](https://skillicons.dev/icons?i=c,java)](https://github.com/krub-dev#lenguages)
 
