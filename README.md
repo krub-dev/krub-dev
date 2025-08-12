@@ -78,6 +78,8 @@
 
 [![Creative Skills](https://skillicons.dev/icons?i=unity,unreal,godot,blender,ps,pr,ae,ai)](https://github.com/krub-dev#creative)
 
+
+![krub-dev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krub-dev&theme=gruvbox&hide=javascript,html)
 ![krub-dev's Stats](https://github-readme-stats.vercel.app/api?username=krub-dev&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 
 <picture>
