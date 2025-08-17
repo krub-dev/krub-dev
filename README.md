@@ -2,22 +2,18 @@
   <img src="https://iili.io/2U3Hvp4.png" alt="header krub" width="1200" height="auto" style="align: bottom;"> 
 </h1>
 
-
 <h3 align="left">/* I'm a professional with experience in 3D design, videogames and VFX. Currently developing my programming skills at 42 Barcelona. Committed to keep learning and solving more complex problems. At the moment I'm mainly focused on C, Web and Game Development */</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 Currently working on [LEARNING WEB AND GAME DEV](https://www.github.com/krub-dev)
 
-- 🌱 Learning **Java, JS, HTML, CSS, BBDD and Game Development in GODOT**
+- 🌱 Learning **Java, Spring, JS, HTML, CSS, SQL and Game Development in GODOT**
 
 - 👯 Looking to collaborate on **Open Source Projects**
 
 - 🤝 Looking for **Networking**
 
 - 👨‍💻 Projects available at [github.com/krub-dev](https://github.com/krub-dev?tab=repositories)
-
-- 📝 Articles (WIP): [krubcodex.wordpress.com](https://krubcodex.wordpress.com)
 
 - 💬 Ask me about **3D in Videogames & VFX. Game Development. Render. 3D Prints. 3D Software/Workflow.**
 
@@ -51,6 +47,12 @@
 |   100/100| EXAM RANK 02 |
 |   125/100| MINITALK |
 |   110/100| SO_LONG |
+
+| Rank | Milestone 3 |
+|-----:|-----------|
+|    100/100| PHILOSOPHERS |
+|   WIP| MINISHELL |
+|   WIP| EXAM RANK 03 |
 
 <h3>
   <img src="https://iili.io/39i9Tb9.png" alt="freeze 42 krub" width="75" height="auto" style="align: bottom;">
