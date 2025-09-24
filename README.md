@@ -51,7 +51,7 @@
 | Rank | Milestone 3 |
 |-----:|-----------|
 |    100/100| PHILOSOPHERS |
-|   WIP| MINISHELL |
+|   100/100| MINISHELL |
 |   WIP| EXAM RANK 03 |
 
 <h3>
