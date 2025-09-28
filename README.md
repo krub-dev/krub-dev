@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://iili.io/2U3Hvp4.png" alt="header krub" width="1200" height="auto" style="align: bottom;"> 
+  <a href="https://linkedin.com/in/krub">
+    <img src="https://iili.io/2U3Hvp4.png" alt="header krub" width="1200" height="auto" style="align: bottom;">
+  </a>
 </h1>
 
 <h3 align="left">/* I'm a developer with experience in 3D design, videogames and VFX. Currently developing my programming skills at 42 Barcelona, with a focus on C and web development, backend-oriented. Always learning, building, and solving new challenges! */</h3>
@@ -72,10 +74,10 @@
 [![Languages](https://skillicons.dev/icons?i=c,java,js)](https://github.com/krub-dev#lenguages)
 
 #### Frontend
-[![Frontend](https://skillicons.dev/icons?i=vue,html,css,js,vite,threejs)](https://github.com/krub-dev#frontend)
+[![Frontend](https://skillicons.dev/icons?i=vue,html,css,js,vite )](https://github.com/krub-dev#frontend)&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=threejs&theme=light" alt="Three.js"/>
 
 #### Backend
-[![Backend](https://skillicons.dev/icons?i=java,spring,express,nodejs,mysql,postgres,supabase)](https://github.com/krub-dev#backend)
+<img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java"/>&nbsp;&nbsp;[![Backend](https://skillicons.dev/icons?i=spring,express,nodejs,mysql,postgres,supabase)](https://github.com/krub-dev#backend)
 
 #### Tools & Workflow
 [![Tools & Workflow](https://skillicons.dev/icons?i=c,vim,vscode,idea,docker,postman,git,github,bash,linux)](https://github.com/krub-dev#tools-workflow)
