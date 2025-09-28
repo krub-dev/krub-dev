@@ -2,12 +2,12 @@
   <img src="https://iili.io/2U3Hvp4.png" alt="header krub" width="1200" height="auto" style="align: bottom;"> 
 </h1>
 
-<h3 align="left">/* I'm a professional with experience in 3D design, videogames and VFX. Currently developing my programming skills at 42 Barcelona. Committed to keep learning and solving more complex problems. At the moment I'm mainly focused on C, Web and Game Development */</h3>
+<h3 align="left">/* I'm a developer with experience in 3D design, videogames and VFX. Currently developing my programming skills at 42 Barcelona, with a focus on C and web development, backend-oriented. Always learning, building, and solving new challenges! */</h3>
 
 
-- 🔭 Currently working on [LEARNING WEB AND GAME DEV](https://www.github.com/krub-dev)
+- 🔭 Currently working on **C and Web Development** [LEARNING C/WEB](https://www.github.com/krub-dev)
 
-- 🌱 Learning **Java, Spring, JS, HTML, CSS, SQL and Game Development in GODOT**
+- 🌱 Learning **C, Java, Spring, JS, HTML, CSS, SQL, Vue.js**
 
 - 👯 Looking to collaborate on **Open Source Projects**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 Projects available at [github.com/krub-dev](https://github.com/krub-dev?tab=repositories)
 
-- 💬 Ask me about **3D in Videogames & VFX. Game Development. Render. 3D Prints. 3D Software/Workflow.**
+- 💬 Ask me about **Tech, 3D workflows and art, printing, TV Series, animation, cinema.**
 
 - 📫 How to reach me **krubioillan@gmail.com**
 
@@ -54,9 +54,12 @@
 |   100/100| MINISHELL |
 |   WIP| EXAM RANK 03 |
 
-<h3>
-  <img src="https://iili.io/39i9Tb9.png" alt="freeze 42 krub" width="75" height="auto" style="align: bottom;">
-</h3>
+| Rank | Milestone 4 |
+|-----:|-----------|
+|    ---| CUB3D / miniRT |
+|   ---| CPP00-CPP04 |
+|   ---| NETPRACTICE |
+|   ---| EXAM RANK 04 |
 
 [![frubio-i's 42 stats](https://badge.mediaplus.ma/kettlebells/frubio-i?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/frubio-i)
 
@@ -66,20 +69,16 @@
 
 #### Languages
 
-[![My Languages](https://skillicons.dev/icons?i=c,java)](https://github.com/krub-dev#lenguages)
+[![Languages](https://skillicons.dev/icons?i=c,java,js)](https://github.com/krub-dev#lenguages)
 
-#### Tech skills
+#### Frontend
+[![Frontend](https://skillicons.dev/icons?i=vue,html,css,js,vite,threejs)](https://github.com/krub-dev#frontend)
 
-[![Tech Skills](https://skillicons.dev/icons?i=vim,vscode,idea,bash,linux,ubuntu,git,github,md)](https://github.com/krub-dev#tech-skills)
+#### Backend
+[![Backend](https://skillicons.dev/icons?i=java,spring,express,nodejs,mysql,postgres,supabase)](https://github.com/krub-dev#backend)
 
-#### Web Dev
-
-[![Web Dev](https://skillicons.dev/icons?i=html,css,js)](https://github.com/krub-dev#web-dev)
-
-#### Creative
-
-[![Creative Skills](https://skillicons.dev/icons?i=unity,unreal,godot,blender,ps,pr,ae,ai)](https://github.com/krub-dev#creative)
-
+#### Tools & Workflow
+[![Tools & Workflow](https://skillicons.dev/icons?i=c,vim,vscode,idea,docker,postman,git,github,bash,linux)](https://github.com/krub-dev#tools-workflow)
 
 ![krub-dev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krub-dev&theme=gruvbox&hide=javascript,html)
 ![krub-dev's Stats](https://github-readme-stats.vercel.app/api?username=krub-dev&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
