@@ -80,7 +80,7 @@
 <img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java"/>&nbsp;&nbsp;[![Backend](https://skillicons.dev/icons?i=spring,express,nodejs,mysql,postgres,supabase)](https://github.com/krub-dev#backend)
 
 #### Tools & Workflow
-[![Tools & Workflow](https://skillicons.dev/icons?i=c,vim,vscode,idea,docker,postman,git,github,bash,linux)](https://github.com/krub-dev#tools-workflow)
+[![Tools & Workflow](https://skillicons.dev/icons?i=vim,vscode,idea,docker,postman,git,github,bash,linux)](https://github.com/krub-dev#tools-workflow)
 
 ![krub-dev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krub-dev&theme=gruvbox&hide=javascript,html)
 ![krub-dev's Stats](https://github-readme-stats.vercel.app/api?username=krub-dev&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
