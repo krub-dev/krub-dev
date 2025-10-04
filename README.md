@@ -71,7 +71,7 @@
 
 #### Languages
 
-[![Languages](https://skillicons.dev/icons?i=c,java,js)](https://github.com/krub-dev#lenguages)
+[![Languages](https://skillicons.dev/icons?i=c)](https://github.com/krub-dev#lenguages)&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java"/>&nbsp;&nbsp;[![Languages](https://skillicons.dev/icons?i=js)](https://github.com/krub-dev#lenguages)
 
 #### Frontend
 [![Frontend](https://skillicons.dev/icons?i=vue,html,css,js,vite )](https://github.com/krub-dev#frontend)&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=threejs&theme=light" alt="Three.js"/>
