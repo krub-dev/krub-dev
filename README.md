@@ -4,20 +4,20 @@
   </a>
 </h1>
 
-<h3 align="left">/* I'm a developer with experience in 3D design, videogames and VFX. Currently developing my programming skills at 42 Barcelona, with a focus on C and web development, backend-oriented. Always learning, building, and solving new challenges! */</h3>
+Full Stack Developer with a focus on Backend development. I build scalable applications with Java & Spring Boot while mastering system programming in C at 42Barcelona. 
+
+Always solving problems, optimizing code, and exploring new technologies.
 
 
-- 🔭 Currently working on **C and Web Development** [LEARNING C/WEB](https://www.github.com/krub-dev)
+- 🔭 Currently working on **Portfolio** [krub.dev](https://krub.dev)
 
-- 🌱 Learning **C, Java, Spring, JS, HTML, CSS, SQL, Vue.js**
+- 🌱 Learning **Backend architecture patterns, RESTful API design, and database optimization**
 
-- 👯 Looking to collaborate on **Open Source Projects**
-
-- 🤝 Looking for **Networking**
+- 👯 Looking to collaborate on **Open source collaboration and networking opportunities**
 
 - 👨‍💻 Projects available at [github.com/krub-dev](https://github.com/krub-dev?tab=repositories)
 
-- 💬 Ask me about **Tech, 3D workflows and art, printing, TV Series, animation, cinema.**
+- 💬 Ask me about **Tech, 3D workflows and art, printing, TV Series, animation, cinema**
 
 - 📫 How to reach me **krubioillan@gmail.com**
 
@@ -54,7 +54,7 @@
 |-----:|-----------|
 |    100/100| PHILOSOPHERS |
 |   100/100| MINISHELL |
-|   WIP| EXAM RANK 03 |
+|   100/100| EXAM RANK 03 |
 
 | Rank | Milestone 4 |
 |-----:|-----------|
@@ -82,9 +82,9 @@
 #### Tools & Workflow
 [![Tools & Workflow](https://skillicons.dev/icons?i=vim,vscode,idea,docker,postman,git,github,bash,linux)](https://github.com/krub-dev#tools-workflow)
 
-![krub-dev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krub-dev&theme=gruvbox&hide=javascript,html)
-![krub-dev's Stats](https://github-readme-stats.vercel.app/api?username=krub-dev&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+![krub-dev's Stats](https://github-readme-stats.vercel.app/api?username=krub-dev&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
+![krub-dev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krub-dev&hide_border=true&theme=gruvbox&hide=html)
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://iili.io/2nAdfku.png">
  <source media="(prefers-color-scheme: light)" srcset="https://iili.io/2nAdfku.png">
