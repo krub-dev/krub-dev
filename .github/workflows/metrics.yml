@@ -19,5 +19,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics.svg
           template: classic
-          base: header, activity, community, repositories
+          base: header, repositories
           config_timezone: Europe/Madrid

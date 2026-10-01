@@ -23,7 +23,7 @@ delegating the technical judgement: I direct the architecture, the specification
 - **Ask me about** tech, 3D workflows and art, printing, TV series, animation and cinema.
 - **Fun fact**: testing with "Acho" and "24" 🍋
 
-<details>
+<details open>
 <summary><strong>Stack</strong></summary>
 
 **Languages**
@@ -44,7 +44,7 @@ delegating the technical judgement: I direct the architecture, the specification
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Projects</strong></summary>
 
 - **[CreandoMientras](https://creandomientras.com)**: site and self-managed panel for a handmade
@@ -82,13 +82,13 @@ Full profile on the 42 intra: [frubio-i](https://profile.intra.42.fr/users/frubi
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Stats</strong></summary>
 
 &nbsp;
 
 <p align="left">
-  <img src="./assets/metrics.svg" width="620" alt="GitHub stats">
+  <img src="./assets/metrics.svg" width="480" alt="GitHub stats">
 </p>
 
 <p align="left">
