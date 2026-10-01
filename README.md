@@ -23,7 +23,8 @@ delegating the technical judgement: I direct the architecture, the specification
 - **Ask me about** tech, 3D workflows and art, printing, TV series, animation and cinema.
 - **Fun fact**: testing with "Acho" and "24" 🍋
 
-### Stack
+<details>
+<summary><strong>Stack</strong></summary>
 
 **Languages**
 
@@ -41,7 +42,10 @@ delegating the technical judgement: I direct the architecture, the specification
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,vim,linux,bash" alt="Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA, Vim, Linux, Bash"> <img src="./assets/icons/claude.svg" alt="Claude" height="48"> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/opencode-white.svg"><img src="./assets/icons/opencode.svg" alt="OpenCode" height="48"></picture>
 
-### Projects
+</details>
+
+<details>
+<summary><strong>Projects</strong></summary>
 
 - **[CreandoMientras](https://creandomientras.com)**: site and self-managed panel for a handmade
   macramé business, with no subscription: Vue 3 on a Git-based CMS. `2025`
@@ -76,19 +80,26 @@ delegating the technical judgement: I direct the architecture, the specification
 Full profile on the 42 intra: [frubio-i](https://profile.intra.42.fr/users/frubio-i).
 </details>
 
-### GitHub
+</details>
 
-<p align="center">
-  <img src="./assets/metrics.svg" alt="GitHub stats">
-</p>
+<details>
+<summary><strong>Stats</strong></summary>
 
 &nbsp;
+
+<p align="left">
+  <img src="./assets/metrics.svg" width="620" alt="GitHub stats">
+</p>
 
 <p align="left">
   <a href="https://komarev.com/ghpvc/?username=krub-dev&color=yellow&base=200&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=krub-dev&color=yellow&base=200&style=for-the-badge" alt="visitors">
   </a>
 </p>
+
+</details>
+
+&nbsp;
 
 <p align="center">
   <a href="https://krub.dev">
