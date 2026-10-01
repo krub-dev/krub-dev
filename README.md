@@ -1,93 +1,97 @@
 <h1 align="center">
-  <a href="https://linkedin.com/in/krub">
-    <img src="https://iili.io/2U3Hvp4.png" alt="header krub" width="1200" height="auto" style="align: bottom;">
+  <a href="https://krub.dev">
+    <img src="./assets/github-banner.png" alt="Kiko Rubio · Full Stack Developer · krub.dev" width="1280">
   </a>
 </h1>
 
-Full Stack Developer with a focus on Backend development. I build scalable applications with Java & Spring Boot while mastering system programming in C at 42Barcelona. 
-
-Always solving problems, optimizing code, and exploring new technologies.
-
-
-- 🔭 Currently working on **Portfolio** [krub.dev](https://krub.dev)
-
-- 🌱 Learning **Backend architecture patterns, RESTful API design, and database optimization**
-
-- 👯 Looking to collaborate on **Open source collaboration and networking opportunities**
-
-- 👨‍💻 Projects available at [github.com/krub-dev](https://github.com/krub-dev?tab=repositories)
-
-- 💬 Ask me about **Tech, 3D workflows and art, printing, TV Series, animation, cinema**
-
-- 📫 How to reach me **krubioillan@gmail.com**
-
-- ⚡ Fun fact: **Testing with "Acho" & "24"** 🍋
-
-
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://linkedin.com/in/krub" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krub" height="30" width="40" /></a>
-<p align="left">
+<p align="center">
+  <a href="https://krub.dev">krub.dev</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/krub">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:contact@krub.dev">contact@krub.dev</a> &nbsp;·&nbsp;
+  <a href="https://krub.dev/uploads/cv-en.pdf">CV</a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=krub-dev&color=yellow&base=200&style=for-the-badge)
-<details> <summary><strong>42 Progress [<a href="https://profile.intra.42.fr/users/frubio-i">Frubio-i</a>]</strong></summary>
+I build web applications end to end: backend in Java (Spring Boot) and Node (Express) over
+relational databases, and frontend in Vue 3. I came into code from more than six years as a 3D
+professional, and the detail came with me. My time at **42 Barcelona** gave me a grounding in C,
+algorithms, concurrency and low-level memory management, and I bring AI tools into my flow without
+delegating the technical judgement: I direct the architecture, the specification and the tests.
 
-| Rank | Milestone 0 |
-|-----:|-----------|
-|   125/100| LIBFT |
+- **Currently** building [krub.dev](https://krub.dev) and studying the **FP DAW** higher vocational
+  qualification (Web Application Development).
+- **Looking to collaborate** on open source and personal projects.
+- **Ask me about** tech, 3D workflows and art, printing, TV series, animation and cinema.
+- **Fun fact**: testing with "Acho" and "24" 🍋
 
-| Rank | Milestone 1 |
-|-----:|-----------|
-|   100/100| PRINTF |
-|   100/100| BORN2BEROOT |
-|   125/100| GET_NEXT_LINE |
+### Stack
 
-| Rank | Milestone 2 |
-|-----:|-----------|
-|    84/100| PUSH_SWAP |
-|   100/100| EXAM RANK 02 |
-|   125/100| MINITALK |
-|   110/100| SO_LONG |
+**Languages**
 
-| Rank | Milestone 3 |
-|-----:|-----------|
-|    100/100| PHILOSOPHERS |
-|   100/100| MINISHELL |
-|   100/100| EXAM RANK 03 |
+<img src="https://skillicons.dev/icons?i=java,c,js,ts" alt="Java, C, JavaScript, TypeScript">
 
-| Rank | Milestone 4 |
-|-----:|-----------|
-|    ---| CUB3D / miniRT |
-|   ---| CPP00-CPP04 |
-|   ---| NETPRACTICE |
-|   ---| EXAM RANK 04 |
+**Backend & data**
 
-[![frubio-i's 42 stats](https://badge.mediaplus.ma/kettlebells/frubio-i?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/frubio-i)
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,postgres,prisma,supabase" alt="Spring Boot, Node.js, Express, MySQL, PostgreSQL, Prisma, Supabase">
 
+**Frontend & design**
+
+<img src="https://skillicons.dev/icons?i=vue,html,css,vite,threejs,figma,blender" alt="Vue, HTML, CSS, Vite, Three.js, Figma, Blender"> <img src="./assets/icons/gsap.svg" alt="GSAP" height="48">
+
+**Tools & AI**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,vim,linux,bash" alt="Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA, Vim, Linux, Bash"> <img src="./assets/icons/claude.svg" alt="Claude" height="48"> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/opencode-white.svg"><img src="./assets/icons/opencode.svg" alt="OpenCode" height="48"></picture>
+
+### Projects
+
+- **[CreandoMientras](https://creandomientras.com)**: site and self-managed panel for a handmade
+  macramé business, with no subscription: Vue 3 on a Git-based CMS. `2025`
+- **[sideForge](https://github.com/krub-dev/sideForge)**: Java and Spring Boot REST API to manage
+  and customise 3D assets for the web. `2025`
+- **[Showroom](https://showroom-fullstack-m3-production.up.railway.app/)**: full stack app to manage
+  and show projects: full CRUD, search and an admin panel. `2025`
+- **[krub.dev](https://github.com/krub-dev/portfolio-krub)**: a Vue 3 SPA with a design system of its
+  own, tested end to end. `2026`
+
+<details>
+<summary><strong>42 Barcelona · Progress</strong></summary>
+
+&nbsp;
+
+| Milestone | Project | Score |
+|:--:|---|--:|
+| 0 | Libft | 125 |
+| 1 | Printf | 100 |
+| 1 | Born2beroot | 100 |
+| 1 | get_next_line | 125 |
+| 2 | push_swap | 84 |
+| 2 | Minitalk | 125 |
+| 2 | so_long | 110 |
+| 3 | Philosophers | 100 |
+| 3 | Minishell | 100 |
+| 3 | Exam Rank 03 | 100 |
+| ⚫ | Black hole | -42 |
+
+![krub and 42](assets/krub-42.gif)
+
+Full profile on the 42 intra: [frubio-i](https://profile.intra.42.fr/users/frubio-i).
 </details>
 
-![Badge Krub 3D](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHAwcDhvcmJ0empuYjdyNWJsaWwwa3F2ejJrY3VxMnJnc2J4eTJreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UG9D48EnnHHMYYHZvJ/giphy.gif)
+### GitHub
 
-#### Languages
+<p align="center">
+  <img src="./assets/metrics.svg" alt="GitHub stats">
+</p>
 
-[![Languages](https://skillicons.dev/icons?i=c)](https://github.com/krub-dev#lenguages)&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java"/>&nbsp;&nbsp;[![Languages](https://skillicons.dev/icons?i=js)](https://github.com/krub-dev#lenguages)
+&nbsp;
 
-#### Frontend
-[![Frontend](https://skillicons.dev/icons?i=vue,html,css,js,vite )](https://github.com/krub-dev#frontend)&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=threejs&theme=light" alt="Three.js"/>
+<p align="left">
+  <a href="https://komarev.com/ghpvc/?username=krub-dev&color=yellow&base=200&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=krub-dev&color=yellow&base=200&style=for-the-badge" alt="visitors">
+  </a>
+</p>
 
-#### Backend
-<img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java"/>&nbsp;&nbsp;[![Backend](https://skillicons.dev/icons?i=spring,express,nodejs,mysql,postgres,supabase)](https://github.com/krub-dev#backend)
-
-#### Tools & Workflow
-[![Tools & Workflow](https://skillicons.dev/icons?i=vim,vscode,idea,docker,postman,git,github,bash,linux)](https://github.com/krub-dev#tools-workflow)
-
-![krub-dev's Stats](https://github-readme-stats.vercel.app/api?username=krub-dev&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-
-![krub-dev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krub-dev&hide_border=true&theme=gruvbox&hide=html)
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://iili.io/2nAdfku.png">
- <source media="(prefers-color-scheme: light)" srcset="https://iili.io/2nAdfku.png">
- <img alt="krub banner down github" src="https://iili.io/2nAdfku.png">
-</picture>
-
+<p align="center">
+  <a href="https://krub.dev">
+    <img src="./assets/github-limonacho-footer.png" alt="krub">
+  </a>
+</p>
