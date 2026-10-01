@@ -73,7 +73,7 @@ delegating the technical judgement: I direct the architecture, the specification
 | 3 | Philosophers | 100 |
 | 3 | Minishell | 100 |
 | 3 | Exam Rank 03 | 100 |
-| ⚫ | Black hole | -42 |
+| ⚫ | Black Hole | -42 |
 
 ![krub and 42](assets/krub-42.gif)
 
@@ -84,8 +84,6 @@ Full profile on the 42 intra: [frubio-i](https://profile.intra.42.fr/users/frubi
 
 <details open>
 <summary><strong>Stats</strong></summary>
-
-&nbsp;
 
 <p align="left">
   <img src="./assets/metrics.svg" width="480" alt="GitHub stats">
@@ -98,8 +96,6 @@ Full profile on the 42 intra: [frubio-i](https://profile.intra.42.fr/users/frubi
 </p>
 
 </details>
-
-&nbsp;
 
 <p align="center">
   <a href="https://krub.dev">
