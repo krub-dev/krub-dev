@@ -11,11 +11,7 @@
   <a href="https://krub.dev/uploads/cv-en.pdf">CV</a>
 </p>
 
-I build web applications end to end: backend in Java (Spring Boot) and Node (Express) over
-relational databases, and frontend in Vue 3. I came into code from more than six years as a 3D
-professional, and the detail came with me. My time at **42 Barcelona** gave me a grounding in C,
-algorithms, concurrency and low-level memory management, and I bring AI tools into my flow without
-delegating the technical judgement: I direct the architecture, the specification and the tests.
+Full Stack Developer | Backend Focus | Java · Spring Boot · PostgreSQL · Vue.js · Node.js | CS @42Barcelona
 
 - **Currently** building [krub.dev](https://krub.dev) and studying the **FP DAW** higher vocational
   qualification (Web Application Development).
